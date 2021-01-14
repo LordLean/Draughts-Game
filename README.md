@@ -12,3 +12,4 @@ Valid Moves            |  Valid Moves with Opponent
 ![](https://raw.githubusercontent.com/LordLean/Draughts-Game/main/images/noopponent.png)  |  ![](https://raw.githubusercontent.com/LordLean/Draughts-Game/main/images/opponent.png)
 
 ![](https://raw.githubusercontent.com/LordLean/Draughts-Game/main/images/rules.png)
+ 

@@ -1,5 +1,5 @@
 # Draughts-Game
-Final Year Knowledge and Reasoning CW
+Final Year Knowledge and Reasoning CW - Minimax + alpha-beta pruning
 
 This project entailed building a Draughts game using the object-oriented programming paradigm. This comprised of creating the game's back-end processes as well as its Graphical User Interface (GUI), to provide an interactive display with a board and also AI and player move-able pieces. This project was written in Python using Pygame, which provided the graphics libraries required to complete this task. The finished game is shown below.
 
